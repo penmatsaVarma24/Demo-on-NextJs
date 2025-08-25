@@ -15,9 +15,9 @@ export default function Home() {
         />
         <ol>
           <li>
-            Get started by editing <code>app/page.js</code>.
+            Welcome, Deepu Get started by editing <code>app/page.js</code>.
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>Save and see your changes instantly Deepu.</li>
         </ol>
 
         <div className={styles.ctas}>
